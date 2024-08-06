@@ -4,20 +4,25 @@
 **Fungi Colony Analysis**
 
 
-**Team Rhizopus
+**Team Rhizopus**
 
 
-Department of Computing
+**Department of Computing**
 
 
-Rajarata University of Sri Lanka**
+**Rajarata University of Sri Lanka**
 
 **Team Members**:
 M.N.M Haflullah,
+
 Sivalojan.S,
+
 Inthuja.S,
+
 M.S.F Nazeeha,
+
 M.R.M Shimer,
+
 M.N.M Asmath
 
 **Project Overview**:
