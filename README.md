@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @Haflullah
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Information Technology at Rajarata University of Sri Lanka
 - 💞️ I’m looking to publish our group project
 **Fungi Colony Analysis**
+
+
 **Team Rhizopus
+
+
 Department of Computing
+
+
 Rajarata University of Sri Lanka**
 
 **Team Members**:
